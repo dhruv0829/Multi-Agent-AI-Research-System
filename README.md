@@ -55,7 +55,33 @@ Streamlit
 --------------------------------------------------
 
 Screenshots
+# 🧠 ResearchMind
 
+Autonomous Multi-Agent AI Research Assistant
+
+---
+
+## Homepage
+
+![Homepage](assets/homepage.png)
+
+---
+
+## Multi-Agent Pipeline
+
+![Pipeline](assets/pipeline.png)
+
+---
+
+## Final Research Report
+
+![Report](assets/report.png)
+
+---
+
+## AI Critic Feedback
+
+![Critic](assets/critic.png)
 
 
 --------------------------------------------------
